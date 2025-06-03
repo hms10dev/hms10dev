@@ -2,7 +2,7 @@
 - 👀 I’m interested in App and Web Development !
 - 🌱 I’m currently learning CI/CD Pipelines and System design !
 - 💞️ I’m looking to collaborate on ... Something that is coming soon ....
-- 📫 How to reach me hms10dev@gmail.com
+- 📫 How to reach me hmsylla25@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Uhhhhh.... WIP?
 
